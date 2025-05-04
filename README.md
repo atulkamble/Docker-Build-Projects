@@ -211,15 +211,4 @@ EXPOSE 80
 
 ---
 
-### ⚙️ **Bonus: GitHub Actions CI/CD with Docker**
-
-✅ **Practice**:
-
-* 🔨 Build Docker image
-* ☁️ Push to DockerHub
-* 🚀 Deploy on push to `main`
-
-Use `.github/workflows/docker.yml` in your GitHub repo.
-
----
 
